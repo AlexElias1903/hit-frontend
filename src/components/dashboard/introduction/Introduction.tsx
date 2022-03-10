@@ -120,6 +120,7 @@ const Introduction: FC = () => {
                 description: value,
                 id: id
             });
+            setIntroduction(value)
             enqueueSnackbar('Salvo com sucesso', {
                 anchorOrigin: {
                     horizontal: 'right',

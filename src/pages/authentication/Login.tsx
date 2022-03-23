@@ -75,7 +75,7 @@ const Login: FC = () => {
                     gutterBottom
                     variant="h4"
                   >
-                    Acesse sua conta
+                    Acesse sua contas
                   </Typography>
                 </div>
               </Box>
